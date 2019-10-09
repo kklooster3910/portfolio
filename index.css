@@ -1,0 +1,18 @@
+.project__links {
+  display: flex;
+  margin-bottom: 1em;
+}
+
+.project__link:first-child {
+  margin-right: 1em;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.contact__message {
+  min-height: 10rem;
+  max-width: 100%;
+  min-width: 100%;
+}
